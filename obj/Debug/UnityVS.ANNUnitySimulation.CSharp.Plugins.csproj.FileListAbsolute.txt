@@ -1,0 +1,17 @@
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\ANNCSharp.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\GeneticAlgorithm.pdb
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\obj\Debug\UnityVS.ANNUnitySimulation.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\ANNCSharp.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\GeneticAlgorithm.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\Utils.dll
+C:\Users\Misha\Documents\GameProjects\Misc\ANNUnitySimulation\Temp\UnityVS_bin\Debug\Utils.pdb
